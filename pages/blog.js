@@ -34,7 +34,7 @@ export default function Home({ posts }) {
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
             const { slug, date, title, summary, tags } = frontMatter
             return (
-              <Link href={`/blog/${slug}`} className="text-gray-900 dark:text-gray-100">
+              <Link key={slug} href={`/blog/${slug}`} className="text-gray-900 dark:text-gray-100">
                 <a>
                   <li key={slug} className="my-4 mb-10">
                     <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0 shadow-md border p-3 pb-7">

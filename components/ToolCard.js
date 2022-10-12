@@ -10,7 +10,7 @@ const ToolCard = ({ text, src, href }) => {
                     href={href}
                     className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 " >
                     <div className="flex p-4">
-                        <img className="rounded-lg px-2 py-1 w-20  " src={src} />
+                        <img alt="tool image" className="rounded-lg px-2 py-1 w-20  " src={src} />
                         <p className="text-align-center  text-lg dark:text-gray-400 px-4 w-full ">
                             {text}
                         </p>
