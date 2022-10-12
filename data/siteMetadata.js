@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: 'Ajemark Hub Tools',
-  author: 'Ajemark Hub Team',
+  author: 'AjemarkHubTeam',
   headerTitle: 'AH Tools',
   description: 'AH-Toolz.com ~ The Home Of Free Online Tools For You!',
   blogDescription: 'AH-Toolz.com ~ The Home Of Free Online Tools For You!',
