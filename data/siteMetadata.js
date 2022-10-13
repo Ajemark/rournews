@@ -1,22 +1,22 @@
 const siteMetadata = {
-  title: 'Ajemark Hub Tools',
-  author: 'AjemarkHubTeam',
-  headerTitle: 'AH Tools',
-  description: 'AH-Toolz.com ~ The Home Of Free Online Tools For You!',
-  blogDescription: 'AH-Toolz.com ~ The Home Of Free Online Tools For You!',
+  title: 'RourNews',
+  author: 'RourNews Team',
+  headerTitle: 'RourNews',
+  description: '',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://rournews.com',
   siteRepo: '',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
   github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  twitter: 'https://twitter.com/NewsRour/status/1575192787867209728?s=20&t=hzQkcWF_uT6IDIFaQUQ
+OFA',
+  facebook: 'https://www.facebook.com/Rour-News-107950541906582/',
+  youtube: 'https://youtube.com/channel/UClS2pjCV_NK7w-5QUVJZYUg',
+  linkedin: 'https://www.linkedin.com/groups/9208132',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
