@@ -14,14 +14,14 @@ const LayoutWrapper = ({ children }) => {
   return (
     <SectionContainer>
       <div className="flex relative pt-10 h-screen flex-col justify-between">
-        <header style={{ zIndex: "1" }} className="flex w-full m-auto bg-white top-0 left-0 fixed ">
+        <header style={{ zIndex: "1" }} className="flex w-full m-auto bg-white shadow-md top-0 left-0 fixed ">
           <div className='flex w-full p-3 py-1 m-auto items-center justify-between mx-auto max-w-3xl px-4 sm:px-6 xl:max-w-5xl xl:px-0'>
 
             <div className=''>
               <Link href="/" aria-label={siteMetadata.headerTitle}>
                 <div className="flex items-center justify-between">
                   <div className=" align-middle ">
-                    <Image width={70} height={70} src={logo} />
+                    <Image width={80} height={80} src={logo} />
                   </div>
                   {typeof siteMetadata.headerTitle === 'string' ? (
                     <div className="hidden h-6 text-2xl font-semibold ">
