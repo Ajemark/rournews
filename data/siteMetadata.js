@@ -12,8 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
   github: 'https://github.com',
-  twitter: 'https://twitter.com/NewsRour/status/1575192787867209728?s=20&t=hzQkcWF_uT6IDIFaQUQ
-OFA',
+  twitter: 'https://twitter.com/NewsRour/status/1575192787867209728?s=20&t=hzQkcWF_uT6IDIFaQUQOFA',
   facebook: 'https://www.facebook.com/Rour-News-107950541906582/',
   youtube: 'https://youtube.com/channel/UClS2pjCV_NK7w-5QUVJZYUg',
   linkedin: 'https://www.linkedin.com/groups/9208132',
