@@ -1,6 +1,6 @@
 ﻿---
 title: 'Time Management'
-date: '2022-13-10'
+date: '2022-10-13'
 tags: ['Time', 'management']
 draft: false
 summary: 'Time management is essential for qual.'
