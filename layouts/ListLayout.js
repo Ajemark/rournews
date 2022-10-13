@@ -56,7 +56,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
               <Link key={slug} href={`/blog/${slug}`} className="text-gray-900 dark:text-gray-100">
                 <a>
                   <li key={slug} className="my-4 mb-10">
-                    <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0 shadow-md border p-3 pb-7">
+                    <article className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0 shadow-sm border p-3 pb-7">
                       <dl>
                         <dt className="sr-only">Published on</dt>
                         <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
